@@ -1,2 +1,2 @@
 project(GraphLab) 
-add_graphlab_executable(my_app my_app.cpp)
+add_graphlab_executable(pr pagerank.cpp)
